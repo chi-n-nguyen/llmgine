@@ -358,9 +358,9 @@ LLMgine is distributed under the **MIT License**—see [`LICENSE`](LICENSE) for 
 
 ---
 
-## 🎓 **DS Cubed Integration and University Adoption**
+## 🎓 **DSCubed Integration and University Adoption**
 
-This enhanced implementation supports DS Cubed's mission to expand LLM technology adoption across University of Melbourne clubs. The architecture balances sophisticated functionality with accessibility, ensuring that organizations with varying technical expertise can effectively leverage AI capabilities.
+This enhanced implementation supports DSCubed's vision to expand LLM technology adoption across University of Melbourne student clubs. The architecture balances sophisticated functionality with accessibility, ensuring that organizations with varying technical expertise can effectively leverage AI capabilities.
 
 The modular design allows clubs to adopt specific features based on their needs while maintaining the flexibility to expand functionality as requirements evolve. The system's emphasis on practical problem-solving and immediate value delivery makes it particularly suitable for university environments where demonstrable benefits are essential for technology adoption.
 
