@@ -16,7 +16,7 @@ The enhanced version implements three core design patterns that significantly im
 
 ### **Creative AI Tool Suite**
 
-4 sophisticated AI tools have been integrated to provide immediate practical value for university clubs and research organizations. The Advanced Code Analysis Engine performs comprehensive static analysis with complexity metrics calculation, providing actionable optimization recommendations and anti-pattern detection. The Intelligent Research Platform synthesizes information from multiple sources with built-in fact-checking and bias detection capabilities. The System Performance Profiling tool offers comprehensive resource analysis with bottleneck identification and optimization pathways. The Database Intelligence System provides schema analysis with security vulnerability detection and performance optimization suggestions.
+4 sophisticated AI tools have been integrated to provide immediate practical value for university student clubs and research organizations. The Advanced Code Analysis Engine performs comprehensive static analysis with complexity metrics calculation, providing actionable optimization recommendations and anti-pattern detection. The Intelligent Research Platform synthesizes information from multiple sources with built-in fact-checking and bias detection capabilities. The System Performance Profiling tool offers comprehensive resource analysis with bottleneck identification and optimization pathways. The Database Intelligence System provides schema analysis with security vulnerability detection and performance optimization suggestions.
 
 ### **Production-Ready Infrastructure**
 
@@ -332,9 +332,9 @@ LLMgine is distributed under the **MIT License**—see [`LICENSE`](LICENSE) for 
 
 ---
 
-## 🎓 **DS Cubed Integration**
+## 🎓 **DSCubed Integration**
 
-This enhanced implementation supports DS Cubed's vision of expanding LLM technology adoption across University of Melbourne clubs. The architecture provides immediate practical value while maintaining the flexibility to adapt to diverse organizational needs. For deployment guidance and university-specific configuration, see the documentation in `programs/engine/README.md`.
+This enhanced implementation supports DSCubed's vision of expanding LLM technology adoption across University of Melbourne student clubs (The presentation by AI Team from induction was impressive enough). The architecture provides immediate practical value while maintaining the flexibility to adapt to diverse organizational needs. For deployment guidance and university-specific configuration, see the documentation in `programs/engine/README.md`.
 
 > _"Build architecturally sound LLM apps, not spaghetti code.  
 > Welcome to the engine room."_
