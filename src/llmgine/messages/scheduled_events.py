@@ -1,6 +1,14 @@
 from dataclasses import dataclass, field
 from datetime import datetime
-from typing import Any, Dict, Type, override
+from typing import Any, Dict, Type
+
+# For Python 3.11 compatibility - override is only available in 3.12+
+try:
+    from typing import override
+except ImportError:
+    # Create a no-op decorator for Python < 3.12
+    def override(func):
+        return func
 
 from llmgine.messages.events import Event
 

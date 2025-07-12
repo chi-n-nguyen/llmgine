@@ -9,7 +9,15 @@ import uuid
 from dataclasses import dataclass, field
 from datetime import datetime
 from types import FrameType
-from typing import Any, Dict, Optional, override
+from typing import Any, Dict, Optional
+
+# For Python 3.11 compatibility - override is only available in 3.12+
+try:
+    from typing import override
+except ImportError:
+    # Create a no-op decorator for Python < 3.12
+    def override(func):
+        return func
 
 from llmgine.llm import SessionID
 from llmgine.messages.commands import Command, CommandResult
