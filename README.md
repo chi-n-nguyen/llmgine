@@ -8,11 +8,11 @@ Think _FastAPI_ for web servers or _Celery_ for tasks—LLMgine plays the same r
 
 ## 🚀 **Enhanced Features for University Adoption**
 
-This repository extends the base llmgine framework with comprehensive enhancements designed for university club deployment and enterprise-grade applications. The implementation transforms the basic LLM framework into a sophisticated AI platform capable of supporting diverse organizational needs while maintaining ease of use for non-technical users.
+This forked repository extends the base llmgine framework with comprehensive enhancements designed for university club deployment and enterprise-grade applications. The implementation transforms the basic LLM framework into a sophisticated AI platform capable of supporting diverse organizational needs while maintaining ease of use for non-technical users.
 
 ### **Advanced Architecture Implementation**
 
-The enhanced version implements three core design patterns that significantly improve system reliability and maintainability. The Singleton pattern ensures consistent configuration management across all system components, eliminating configuration drift and providing centralized performance metrics tracking. The Observer pattern enables real-time monitoring of all tool executions, providing automated performance optimization and security threat detection. The Mediator pattern facilitates sophisticated inter-component communication while maintaining loose coupling between system modules.
+The enhanced version implements 3 core design patterns that significantly improve system reliability and maintainability. The Singleton pattern ensures consistent configuration management across all system components, eliminating configuration drift and providing centralized performance metrics tracking. The Observer pattern enables real-time monitoring of all tool executions, providing automated performance optimization and security threat detection. The Mediator pattern facilitates sophisticated inter-component communication while maintaining loose coupling between system modules.
 
 ### **Creative AI Tool Suite**
 
