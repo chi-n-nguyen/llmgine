@@ -8,7 +8,7 @@ Think _FastAPI_ for web servers or _Celery_ for tasks—LLMgine plays the same r
 
 ## 🚀 **Enhanced Features and Extensions**
 
-This repository extends the base llmgine framework with comprehensive enhancements designed for university club deployment and enterprise-grade applications. The extensions transform the basic LLM framework into a sophisticated AI platform that balances advanced functionality with accessibility for non-technical users.
+This forked repository extends the base llmgine framework with comprehensive enhancements designed for university club deployment and enterprise-grade applications. The extensions transform the basic LLM framework into a sophisticated AI platform that balances advanced functionality with accessibility for non-technical users.
 
 ### **Advanced Architecture Implementation**
 
